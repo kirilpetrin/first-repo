@@ -1,2 +1,2 @@
 #include "Monster.h"
-MainFunction() {}
+IntMainFunction() {}
